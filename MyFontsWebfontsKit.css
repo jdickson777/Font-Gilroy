@@ -1,5 +1,3 @@
-@import (css) url("//hello.myfonts.net/count/3eeeaa#.css");
-
 @font-face {
   font-family: "Gilroy-Regular";
   src: url('webFonts/GilroyRegular/font.woff2') format('woff2'), url('webFonts/GilroyRegular/font.woff') format('woff');
